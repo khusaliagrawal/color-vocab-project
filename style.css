@@ -1,0 +1,31 @@
+/* all the colour words are normal weight, not bold */
+.color-title {
+  font-weight: normal;
+}
+
+/* each word is written in the colour it means */
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: gold;
+}
+
+/* every image is 200px by 200px */
+img {
+  width: 200px;
+  height: 200px;
+}
